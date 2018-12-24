@@ -1,0 +1,108 @@
+Sample
+
+WESTVACO BOARD SAMPLES
+
+Sample Code
+
+14-JUNE-95
+
+MITC
+(ppm)
+
+ 
+
+Westvaco |[4-Board
+
+|Westvaco Board, unc.
+
+8943-95#9
+8943-95
+
+0.63
+0.74
+
+Sample
+
+Date
+Analyzed
+
+ 
+
+Griff
+Griff
+
+ 
+
+Westvaco |3-Board
+
+8943-95#8
+
+ND
+
+| Griff
+
+ 
+
+Westvaco |2-Board
+
+8943-95#7
+
+0.88
+
+| Griff
+
+Analyst Weight (g}
+
+0.1118
+
+14-Jun-95
+
+ 
+
+0.1195
+
+14-Jun-95
+
+ 
+
+0.1165
+
+14-Jun-95
+
+ 
+
+0.1148
+
+14-Jun-95
+
+ 
+
+Westvaco |1-Board
+
+wstbd.xls
+
+ 
+
+ 
+
+8943-95#6
+
+ 
+
+0.73
+
+15-June-95
+
+8:33
+
+ 
+
+ 
+
+0.1151
+
+14-Jun-95
+
+2040012372
+
+PITLETISO?

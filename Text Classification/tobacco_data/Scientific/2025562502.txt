@@ -1,0 +1,45 @@
+KHSUCCINATE AND KHMALONATE SIZING ON MAGNESITE PAPERS
+
+:
+
+PAPER PAPER. DESCRIPTION: SIZING SBT. EXT. %SsS ASH:
+CODE COEFF. REDN A,C,F,S
+
+nr
+
+P1EL Binary, 55 g/m, 7.8 C 10.0% KHsucc) 7.9 0.33 53.5 1,2,1,2'
+P1EM Binary, 55 g/m, 4.7°¢ 8.4% KHsucc 9.8 0.23 68: 1,2,1,2
+P1EN Ternary, 45 g/m’, 4.6:C 9.6% KHsuce) 91.5 0.32 55 2;,.2,3,3:
+
+P1EO Binary,, 45 g/m, 4.2;C 8.8% KHsucc 10.1 0.25 65 1,3,.1,2:
+
+P1EL Binary, 55 g/m, 10.2;C 11.6% KHmal 7.1. 0.40 4/4! 1,3,1,2:
+P1EM Binary, 55 g/m, 6.2.C 12.0% KHmal 8.4 0.36 49 1,2,.1,.2
+P1EN Ternary, 45 g/m, 5.0C 9.1% KHmal 7.8 0.37 48 2,2:.5,.2,3.5:
+
+PIEO. Binary, 45 g/m, 5.3.€ 10.2% KHmal 8.8 0.27) 62: 1,2,1,2:
+
+Notes:
+
+1. Slightly higher pick-up rates of sizing were obtained with KHmalonate
+and K+ levels are somewhat higher for these papers (2.1-2.5% vs.
+2.5-3.3%). The paper porosities, however, were slightly tighter
+fox. KHsuccinate papers.
+
+2. KHsuccinate series appears more effective: for Ss reduction,
+especially since K+ levels are lower, but this: is partially
+accounted for by longer: SBTs..
+
+3.. Ternary paper does not offer an advantage for these acidic: sizings..
+
+4. Surprisingly good performance is obtained with 45\ g/m’ binary paper.
+Its lower total filler level may be a factor affecting its response
+to acidic salt sizing.
+
+53. Ash appearance of binary papers: is: generally better than. that of
+ternary paper.
+
+958202
+
+tw
+si

@@ -1,0 +1,57 @@
+© © Lee
+IRR} Interofiice Memorandum
+
+Date: March 1, 1982
+
+Subject: Column Substitution for Cocoa Analysis
+
+To:
+
+From: Ted Conner,
+‘Gary Shelar and
+
+Ms. Brenda Hodge
+Dave Colby
+
+The Waters Radial-Pak C18, 10), 5 mm ID column that is currently being
+used for the analysis of vanillin, ethyl vanillin, piperonal, and coumarin in
+smoking tobacco, the analysis of vanillin in filter rods, and the analysis of
+coumarin in cigarettes can also be used for the analysis of cocoa in tobacco
+products using the same mobile phase that was used on the Whatman ODS-2 column
+
+The analysis time is reduced to 6
+The
+
+(60% water, 40% methanol, by volume).
+minutes and eliminates the need to switch columns for these methods.
+
+chromatographic conditions are:
+
+RCSS 5 C18 10)
+
+Column:
+Flow Rate: 1.0 ml/min.
+60% water, 40% methanol, by volume.
+
+Mobile Phase:
+Fixed wavelength, 280 nm, x 0.2 AUFS.
+
+Detector:
+x
+
+TC
+
+thd
+
+Attached is a typical chromatogram.
+
+/ng
+Attachment
+xc: Dr. W. L. Clapp
+
+Dr. B. M. Gordon
+Mr. L. A. Lyerly
+
+RIAL FORM 2422-Rev. 7/70
+
+Ontn e9z05

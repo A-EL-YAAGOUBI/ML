@@ -1,0 +1,92 @@
+pis
+
+SALES PROMOTION P.O.
+é DATA INPUT SHEET
+
+ 
+
+ 
+
+ACTION CODE: ace (POADD, POFIX, POGET, POREM, *F IN)
+
+arom cons: Ole __- O0D_- O
+cersvive: (Gat Dincex dee _
+
+*P,O. NUMBER:
+
+ 
+
+ 
+
+CHARGE YEAR:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*SCHEDULE CODE: Go: feof prem pesc.: Dolev TOME
+account no: _@70# IF COUPON, YOU MUBT SUPPLY SXPIRATION DATE. :
+TYPE CODE: (rn
+
+TOTAL ITEM OTY.: } noran trem cost: _/¥@, SU
+% OVERRUN ALLOWED: a
+SHIP TO CODE: _____ SUPPLIER CODE: La
+DELIVERY DATE: FOB:
+(mt DD/¥Z)
+
+TERMS: wt 32_ AUTHORIZED BY CODE: Mm
+MISC. COST: (¥/N) wo SPECIFICATIONS & REQUIREMENTS: (¥/N) 4
+MISC. COSTS:
+
+1) Ss —____
+
+2) sO
+
+3) se
+
+$
+
+ 
+
+4)
+SPECIFICATIONS & REQUIREMENTS (15 LINES @ 69 CHARACTERS PER LINE)
+
+ 
+
+Visite, Coss ptréocuaréa bof Lied Lined pod.
+
+ 
+
+ 
+
+ 
+
+BIDDER #2:
+
+BIDDER #3: BIDDER §$
+
+—_
+
+BIDDER #4: —_——
+REASON FOR NO BID:
+
+a
+POINPUT.SHT/SP1 REV: 6/11/92
+
+ 
+
+I2bLT TOG

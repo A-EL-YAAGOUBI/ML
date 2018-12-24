@@ -1,0 +1,87 @@
+SEP B2 ’S2 11:11 PM QA OC 884-274-2882 SMOKING
+
+QBOP47A Smoking/Phyeical Testing System
+Smoking Results Report
+
+P.2
+
+Sample Id: 9206359 W/E
+
+Semple Date: 28/23/32 Brand: CA 9490 $10 BEH 100 REGULAR SP
+
+Order Nusbers:
+Formula Codes: 920
+Qty Produced:
+{in thous):
+TAR, Mg/Cigt 15.5,
+Nicotine, Mg/Cigt
+TPM, Mo/Cigt
+Menthol, Mg/Ciot
+Water, My/Cigt
+Puffe/Cigt
+Total RTD, In. of HZ0 4.30
+Total RTO, MM. of H20 109.22
+Ventilation, % 9.8
+
+Plug: RTD, In. of H20 2.75
+
+Plug RTD, MM. of HZ0 63.85
+
+Porosity, Coresta 27.8
+Jobacco Weight, & @.842
+Circumference, MM 24.78
+ov, % 12.5
+
+Firaness, MM
+
+Loose Ends, &
+
+Accepted: VAX Rejected:
+
+PER QA.
+
+(7.4
+
+ 
+
+16.8
+
+4.88
+121.92
+14.
+3.00
+76.28
+33.0
+0.872
+24.88
+
+13.2
+
+1.13
+
+21.4
+
+2.49
+
+4.50
+116.92
+17.6
+2.94
+74.80
+31.1
+@.67@
+24.94
+13.4
+3.17
+
+@.574
+
+Print Date:
+Print Time:
+
+ 
+
+Q9/81/92
+14346
+
+2031513374

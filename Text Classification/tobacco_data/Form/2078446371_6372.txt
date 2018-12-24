@@ -1,0 +1,124 @@
+Scientific Area: LETS EXPOSURE ASSESSMENT- Computational Fluid Dynamics
+
+Project Name: | Comparison of Three Air Distribution Systems by Computational Fluid Dynamic
+
+Objective: | To prepare and submit a publication manuscript that compares the removal
+
+Project Leader: | Danicl J. Hirnikel
+
+ 
+
+ 
+
+ 
+
+Modeling
+
+ 
+
+ 
+
+effectiveness of three different air distribution systems in a model hospitality venuc
+by CFD modeling by July 2000.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tactics and Milestones: Target Date:
+
+1. Tactic: Model a room containing cigarette sources using a mixed air distribution
+
+system, a directional air flow system, and a displacement ventilation system.
+
+Milestone: All three rooms are computer modeled showing room air smoke December 1999
+
+concentration,
+2. Tactic: Write outline for manuscript.
+
+Milestone: Outline form completed. December 1999
+3. Tactic: Write abstract for manuscript.
+
+Milestone: Abstract completed. January 2000
+4. Tactic: Presentation and discussion of results with WSA scientists
+
+Milestone: Presentation. February 2000
+5. Tactic: Write manuscript for manager review.
+
+Milestone: Draft manuscript completed and turned. over to manager. March 2000
+6. Tactic: Edit manuscript.
+
+Milestone: Draft manuscript submitted to manuscript review board. April 2000
+7. Tactic: Edit manuscript and submit for publication.
+
+Milestone: Submit manuscript to ASHRAE or Amorican Industrial Hygione Journal May 2000
+8. Tactic: Make poster presentation for Engineering Solutions to IAQ Problems.
+
+Milestone: Symposium held July 17-19, 2000 in Raleigh, NC. July 2000
+Compliance.
+
+E: Basic Rescarch (critical)
+Tobacco Smoke-ETS
+ETS Exposure Assessment
+
+Deliverable: Manuscript
+
+ 
+
+ 
+
+Internal Resource Allocation: External Resource Allocation:
+
+ 
+
+Daniel J. Hirnikel- 20%
+Peter Lipowicz- <
+Gary Kuhl - <5%
+
+5%
+
+ 
+
+ 
+
+ 
+
+Capital Expenses:
+
+ 
+
+ 
+
+None.
+
+ 
+
+Submitted By:
+
+ 
+
+ 
+
+ 
+
+Daniel J, Hirnikel
+
+ 
+
+Doc Code: P0622 WSA PLANNING TEMPLATE Date: 12/01/99
+
+2078446371

@@ -1,0 +1,132 @@
+CHEMICAL INVENTORY SHEET
+
+NOTE: An individual form must be completed for each chemical, product or substance inventoried. If container size or type
+differs, an additional inventory sheet must be completed. f w Confidential
+
+Accurate inventory requires that all of the following be answered: - Philip Morris v. ABC
+
+      
+
+ 
+
+3.
+
+ 
+
+8. Manufacturers Name
+
+EAOO
+
+11. Storage Area - Bullding (Circle one code’
+
+C1 Inside Building
+Oo Outside Building |
+
+ 
+
+      
+  
+  
+     
+
+10,
+
+   
+ 
+
+  
+ 
+
+Above Ground
+Below Ground
+
+   
+
+‘12, _Containers/Storage T Circle one code’
+
+     
+    
+      
+   
+    
+  
+
+A Above Ground Tank G lass Bottles or Jugs
+B Below Ground Tank H Plastic Bottles or Jugs
+C Tank Inside Building | Fiber/Drum O Tote Bin
+
+D Steel Drum J Bag/Blanket/Cells/Strips P Tank Wagon
+
+E Plastic or Non-Metallic Drum KBox Q Rail Car
+
+F Can L linder R___ Other
+
+     
+
+    
+ 
+
+14, torage Conditions - Temperature (Circle one code
+
+Ne4) Ambient Temperature
+
+5 Greater than Ambient Temperature
+6 Less than Ambient Temperature
+
+7 Cryogenic Conditions
+
+Maximum Number Containers Stored 16. Container Capacity (Pounds) .. . L
+= 4
+Maximum Amount Stored (Pounds) 18. Avérage Daily Amount Stored (Pounds)
+2-2 |
+Annual Usage (Pounds) ze 20. No. of Days On-Site (per year) 3
+
+Use Confidential
+
+Usage Code (Circle one code fe
+
+Building Material Fuel/Gasoline/Oil Ui1 Maintenance Material
+Uoed Contractor Material U07 Hazardous Waste U2 Office Material
+
+U0d R&D Chemical (Only) U08 Isotope (Radioactive) U13 Pest Contre!
+
+U04 Equipment/Process Material WO = Janitorial/Cleaning Material U14 Treatment (Water)
+
+’ UOS  Flavor/Preduct Material Tuto) Laboratory Chemical U1iS Groundskeeping Materials
+U16 _ARA Material
+
+13. _Storage Conditions - Pressure (Circle one code
+qQ_15 Ambient Pressure
+- Greater than Ambient Pressure (Aerosol)
+3 Less than Ambient Pressure
+
+     
+      
+     
+    
+
+  
+  
+  
+  
+    
+         
+
+    
+   
+
+  
+   
+    
+  
+    
+
+    
+   
+
+      
+       
+
+ 
+
+CHEMINV.FRM 6/92

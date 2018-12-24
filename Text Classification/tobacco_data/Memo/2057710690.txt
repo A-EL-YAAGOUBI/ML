@@ -1,0 +1,74 @@
+PHILIP MORRIS U. S. A.
+
+INTER-OFFICE CORRESPONDENCE
+
+Richmond, Virginia
+
+To: H. L. Spielberg Date:
+From: G. N. Yatrakis
+Subject: Tar/Nicotine Interaction
+
+Using the formula derived by John Tindall, (memo attached),
+
+April 4,
+
+1990
+
+one can
+
+calculate the theoretical nicotine delivery knowing only the filler nicotine
+
+and tar delivery of a cigarette.
+
+ities g
+
+Listed below are the theoretical nicotine deliveries for the third
+
+Tar/Nicotine Interaction Study prototypes.
+
+N = 0.0335 x T x (F + 0.19)
+where N = nicotine delivery (mg)
+
+T = tar delivery (mg)
+
+F = filler nicotine (%)
+
+Theoretical Nicotine Delivery
+
+Filler Nicotine %
+
+ 
+
+0.3 0.7 L.1
+Tar Delivery (mq)
+3 <0.05 0.09 NM
+7 NM 0.21 0.30
+11 0.18 0.33 0.48
+15 0.25 NM 0.65
+
+NM = no model was requested at this delivery.
+
+     
+
+GNY:1gk
+
+WA
+
+G. N. Yatrakis
+
+QO.
+
+ 
+
+17
+
+-40
+
+NM
+
+-85
+
+a
+<
+
+OGIOTLLSGOS

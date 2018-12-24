@@ -1,0 +1,53 @@
+PROJECT TITLE : ANALYTICAL INVESTIGATIONS
+
+PERIOD COVERED FEBRUARY 1981
+
+WRITTEN BY : E. LECOULTRE, M. MURRAY AND: J.PIADE
+
+ 
+
+SACCHARIN
+
+Several tipping papers and one reference tipping paper
+sample were analyzed for saccharin. The qualitative and
+quantitative analyses were performed by HPLC. The method
+involved acid (0.05N H,S0,) and diethyl ether extraction
+and determination on a’ C8 column (15 cm) with water, acetic
+
+acid, methanol (59/1/40) eluent.
+
+All results were confirmed by Gc*/MS after gerivatization
+of saccharin to N-methyl saccharin (2) by M (197) and
+fragmentation. Results have been submitted to OC PME
+
+(3) (4).
+
+At the request of QC PME. a rather simple spot test for the
+presence of sodium saccharin on TP is being sought. The
+
+precipitation reaction between a dilute acidic silver nitrate
+
+solution and sodium saccharin seems promising. Work is
+continuing concerning the sensitivity and the selectivity
+
+of the method.
+
+REFERENCES
+
+1. Verbal request from F. Lopes to W. Fink, February 5,
+2. RJ. Daun, J.A.0.A.C 54, 1140 - 1145 (1971)..
+
+3. Memos from E. Iecoultre to: W. Fink, February 19 and
+23, 1981.
+
+4, Memo from W. Fink to F. Lopes, February 20, 1981.
+
+E. Lecoultre, M. Murray and J. Piad
+
+ay
+
+SOS3296702
+
+ 
+
+1981 @)

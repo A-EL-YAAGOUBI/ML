@@ -1,0 +1,222 @@
+FSC-55-A
+s} COUPON RETURN PROCEDURES.....The Coupon
+Management Systems has been discontinued effective
+
+notebooks that orders for preprinted coupons are limited to
+an as needed basis. The following procedures are in place
+
+for the return of coupons.
+
+ 
+
+      
+     
+     
+     
+           
+     
+   
+          
+   
+       
+     
+   
+     
+    
+   
+   
+    
+   
+      
+      
+     
+    
+   
+    
+      
+       
+    
+  
+ 
+    
+     
+
+ 
+
+Expired Coupons:
+Request Division Management to send, to the ROU, all
+
+preprinted coupons that will be expiring. Any coupon that
+has expired or is to expire within three months is
+
+considered an expired coupon.
+Work with Division Management to ensure that coupons
+
+sent to the ROU are not lost in transit.
+
+ible, coupons should be accumulated to
+
+a minimum of 50 pounds (total packages) and shipped via
+Consolidated Freight with third party billing to RJRT. Any
+small remaining shipments under 50 pounds (total weight
+of all boxes) are to be shipped Airborne - Second Day with
+third party billing to RJRT. Since this is very expensive,
+please minimize use of this shipping method. Do not return
+coupons via UPS. Please use “printed matter” as the
+freight description when completing your bill of lading.
+
+ 
+ 
+
+Call Dennis Jacobs (e
+
+all divisions are receive
+shipping. Dennis will provide you with a Return Tracking
+
+Number. Please be prepared to provide him with the exact
+number of boxes being returned.
+
+abeled with “ship from” and “ship to”
+eference to "RJR Tobacco Company”
+as this creates interest in the package. Each box should be
+
+marked with the Return Tracking Number provided by
+follows: 1 of 10, 2 of 10, etc. All
+
+boxes should be taped securely to prevent the box from
+
+bursting open during transit. Send returns to:
+
+Ail cases must be |
+addresses without Fr
+
+RJRT clo GATX Logistics, Inc.
+5900 Grassy Creek Boulevard
+Winston-Salem, NC 27105
+
+Attention: Katie Young
+
+Returning Active Coupons:
+Call Geraldine Nicks at 767-9230 (voicemail 741-3328) or
+
+Barbara Mason at 741-3342 for a Return Authorization
+Number.
+
+  
+
+Return only full rolls
+complete SKU's can
+marked with the assigned RA number.
+
+shut securely, and label
+ddress and the following
+
++} BPE ENHANCEMEN
+been added to BPE based on
+
+Box up the coupons taping them
+each box with your “ship from” a
+
+address:
+
+of active (u
+be returned and each
+
+RUJRTIGATX Logistics, Inc.
+5900 Grassy Creek Boulevard
+
+Winston-Salem, NC 27105
+RA#______
+
+Chicago Promotion
+
+nexpired) coupons. Only
+case must be
+
+TS.....Two new copy functions have
+a suggestion submitted by
+
+Coordinator, Ellen Ganschaw. Please
+
+review the following steps for using these functions:
+
+4. Select Function V5
+
+"Copy Generic Templates”
+
+2. Select with an “X” the appropriate template
+plate at one time may be selected)
+
+copied (only 1 tem
+and press “enter”.
+
+You may also delete temp
+entering a “D” by the a
+
+unlimited number
+time).
+
+6 -“Copy VAP Templates” or G54-
+
+you need
+
+lates with this function by
+ppropriate templates (an
+
+of templates may be deleted at one
+
+3. Rename the template and press “PF5” to
+
+template.
+4. To review your lis
+
+accounts that are
+
+*} SMS 422 GEN
+
+keep your new template as ¢
+
+if you have questio
+Planning - Ext. 2584.
+
+ERAL SHIPMENT ORDERS - SHIPPING
+MEMO OPTION..... The SMS general shipment ordering
+
+function 422 ("Gen Ship-S
+function now has an option to print or not print shipping
+
+memos. (This option is no
+national »:000« level.)
+
+t of templates refer to Fun
+
+VAP and/or Function G52 in GTP.
+
+copy
+ctlon V52 for
+
+te(s) will remain in tact for future
+reference. However, when you create a copy
+VAP Template, the syste
+
+version of a
+
+m will automatically delete
+
+no longer linked to the direct account to
+
+ns, please call Sharon Re
+
+t available when orderin
+
+urrent as possible.
+
+id, Sales
+
+ame Qty Batch Release”)
+
+g at the
+
+ 
+
+T6OL ZOsts

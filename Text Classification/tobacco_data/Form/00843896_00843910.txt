@@ -1,0 +1,44 @@
+DECISION TREE ESTIMATION OF TOXIC RISK
+
+NAME DATE
+December 11, 1980
+
+J. R. Reid, P. D. Schickedantz
+COMPOUND ‘NAME
+
+Ethyl 2-(1-Hydroxy-2-methylcyclohexy1) acetate
+
+   
+
+ 
+
+    
+ 
+ 
+ 
+
+ 
+
+   
+
+STRUCTURE
+
+ESTIMATED TOXICITY CLASS
+I
+
+COMMENTS.
+
+LORILUARD COMPOUND CODE NUMBER
+A139
+
+The simple carbocyclic hydroxy ester was. placed in estimated toxicity class
+I. There were no listed functional group configurations which warranted a higher
+toxicity rating.
+
+        
+
+   
+
+968EP800
+
+UORILLARD RESEARCH CENTER FORM 1 (5 80):

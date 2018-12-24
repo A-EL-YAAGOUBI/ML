@@ -1,0 +1,86 @@
+Input Filieename: Bs #930910. INF
+Time: O%:23; Date: 09-11-93
+Operator: RAMEY
+
+Comments
+
+There are 10393600 (bytes) free on disk.
+File B:$9S0910N.CHR will take approximately 7480 (bytes).
+
+{
+|
+Channels 1 2 3 4
+_— ‘Bases & & 2B él
+Gain: 12 10: 18 25
+ALK TRS NHS NOS
+ag/L ag/al ag/t ag/L
+
+oO
+14 Nb bt et et + + Hb +
+
+  
+  
+  
+    
+ 
+
+ 
+    
+
+tebe ee tet Lee ee
+
+‘|i 144
+
+ 
+
+HH tt te +
+
+ 
+
+146 Voaaadaaee : +t t
+
+ 
+
+ 
+
+I
+
+{ |
+
+Hee ee te ttle tte test
+|
+
+}
+
+148
+
+i
+‘
+j
+}
+!
+
+ 
+
+my
+150 es
+en Pema
+: +
+a
+>| $
+a ‘,
+ise | 4
+“et f+++ +7 es Init base 162 248 283 284 WwW
+c | x) PK. LCP ti typ P ©
+} “V1 Ret Abs 0.90 0.92 0.56 0.43 N
+e Meet el” {PK 2 CP 2 typ C 1. 4B0N! ea
+| a oo | |pK 3.EP 3 type 1.1998! oO
+x, | wi | pod
+] 154 ered fos a [PK 4 OP 4 typ C 107.3 0.9077 30.91 re
+. { PK SOP StypC 7b.28 0.6250 20.23 et
+Ho | ¢ \f PK 6 CP fb typ 43.99. 0.3183 10.34 wy
+| sy \
+bot | | _ [PR 7 OP 7 typ C 15.10 0, 1589 5.15 1, 2424
+ise | So [Ph cea Fe Ra RR BRS:
+| 136 pee ttt st Lea eet yp " . . '
+4 if 1 sy if i
